@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a junior software developer based in Cupertino, California.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I don't have much information to share, yet. Wait and see. Maybe this will change. Who knows?
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[rama.amol@icloud.com](mailto:rama.amol@icloud.com)
